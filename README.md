@@ -2,7 +2,7 @@
 Recursively backup all files in a given directory and its subdirectories.
 
 <h1>Motivation</h1>
-There are other (and much better) tools for creating back ups of your files and folders. Yet the motivation for creating this script is to have simple script to transparently just copy all files while skipping folders under Git version control. Nothing more, nothing less.
+There are other (and much better) tools for creating backups of your files and folders. Yet the motivation for creating this script is to have simple script to transparently just copy all files while skipping folders under Git version control. Nothing more, nothing less.
 
 
 <br>
