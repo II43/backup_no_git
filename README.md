@@ -18,11 +18,11 @@ This script creates a backup of all files in the specified directory tree. It ha
 
 <h1>Usage</h1>
 <pre>
-./backup_no_git.sh [OPTIONS] %directory_path_to_be_backed_up%
+backup_no_git.sh [OPTIONS] %directory_path%
 Arguments:
-  %directory_path_to_be_backed_up% The directory to be backed up recursively.
+  %directory_path%     The directory to be backed up recursively.
 Options:
-  --execute        (Optional) Executes the backup action. 
-                   By default (if this option is absent), this script runs in dry-run mode.
-  --help           (Optional) Display this help message and exit.
+  --execute            (Optional) Executes the backup action. 
+                       By default (if this option is absent), this script runs in dry-run mode.
+  --help               (Optional) Display this help message and exit.
 </pre>
